@@ -1,0 +1,5 @@
+Scale,1
+Width,500
+Height,500
+FPS,60
+END

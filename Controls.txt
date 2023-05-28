@@ -1,0 +1,6 @@
+Enter,K_RETURN
+Backspace,K_BACKSPACE
+MoveUp,K_UP
+MoveDown,K_DOWN
+MoveLeft,K_LEFT
+MoveRight,K_RIGHT
